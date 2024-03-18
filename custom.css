@@ -1,0 +1,31 @@
+.texe-capital {
+    text-transform: uppercase;
+}
+.button{
+    background-color: blue;
+    color: #ffffff;
+    padding: 8px 20px;
+    margin-right: 20px;
+    margin: 10px;
+    display: inline-block;
+    
+                
+}
+a {
+    text-decoration: none;
+}
+ 
+input {
+    margin: auto;
+}
+
+.mybg {
+    background-color: blueviolet;
+}
+
+.my-circle {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
