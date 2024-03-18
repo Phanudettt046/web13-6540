@@ -1,0 +1,92 @@
+body{
+  background-color: #0497f9;
+  margin: 0;  /* เพิ่มด้านนอกนอก */
+  padding: 0; /* เพิ่มด้านในใน */
+  font-family: 'Poppins', sans-serif;
+}
+
+
+/* เริ่ม */
+header /* กรอบบนสุด */{
+  background-color: #01ff7c;
+}
+
+nav {
+  /* border: 2px solid rgb(216, 20, 20); กรอบสี */
+  display: flex;  /* ใช้ขยับวัตถุ */
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo{
+  /* border: 2px solid rgb(26, 216, 127); กรอบสี */
+   /*width: 300px;    ขยายกล่อง */
+  display: flex;  /* ใช้ขยับวัตถุ */
+  align-items: center;  /* ทำให้วัตถุอยู่ตรงกลาง*/
+  margin-left: 15px;
+}
+
+.h1-title {
+  margin-left: 10px ;
+  color: aliceblue;
+  text-transform: uppercase;  /* ตัวใหญ่ทั้งหมด */
+}
+
+.menu{
+  /* border: 2px solid rgb(190, 4, 4);  กรอบสี */
+  display: flex;  /* ใช้ขยับวัตถุ */
+  list-style: none;   /* ลบจุดหน้าข้อความ */
+  /* width: 500px;    ขยายกล่อง */
+}
+
+li{
+  margin-right: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: azure;
+}
+/* จบ */
+
+
+/* start main-content */
+.main-content{
+/* margin: auto; */
+margin-left: auto;
+margin-right: auto;
+width: 1000px;
+}
+
+
+.box{
+  background-color: aliceblue;
+  padding: 20px;
+  margin: 30px 0px; /* ตัวแรกหมายถึงบนล่าง ตัวที่สองซ้ายหวา */
+}
+
+.images{
+  width: 100%;
+}
+
+
+.button{
+  color: aliceblue;
+  background-color: rgb(22, 6, 112);
+  padding: 8px 24px;
+  border-radius: 30px; /* ทำให้กนอบโค้ง */
+  display: inline-block; /* ทำให้boxเท่ากับตัวอักษร*/
+}
+
+.text-param{
+  font-weight: 100;
+}
+/* END main-content */
+
+
+footer /* กรอบล่างสุด */{    
+  background-color: #6229AE; 
+  text-align: center;  /* ขยับให้ตัวอักษรอยู่ตรงกลาง */
+  color: aliceblue;
+  padding: 10px;
+}

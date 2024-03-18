@@ -1,0 +1,131 @@
+.texe-capital {
+    text-transform: uppercase;
+}
+.button{
+    background-color: blue;
+    color: #ffffff;
+    padding: 8px 20px;
+    margin-right: 20px;
+    margin: 10px;
+    display: inline-block;
+    
+                
+}
+a {
+    text-decoration: none;
+}
+ 
+input {
+    margin: auto;
+}
+
+.mybg {
+    background-color: blueviolet;
+}
+
+.my-circle {
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+    margin: auto;
+}
+.member{
+    background-color: aquamarine;
+    padding: 40px;
+}
+
+.member-box{
+    width: 900px;
+    background-color: aliceblue;
+    margin: auto;
+    box-shadow: 0px 0px 2px 1px  rgb(0, 0, 0);
+    border-radius: 5px;
+    padding: 1px 40px 40px;
+}
+
+table{
+    width: 80%; 
+    border-collapse: collapse;  
+
+    margin: auto;
+}
+
+th, td{
+    border: 1px solid rgb(4, 194, 128);
+}
+
+th{
+    
+}
+
+td{
+
+}
+.ngk{
+    width: 1100px;
+    margin: auto;
+}
+
+.Youg{
+    margin-left: 420px;
+}
+
+.n{
+    margin: auto; 
+   width: 500px;
+   border: 1px solid rgb(0, 0, 0);
+   background-color: rgb(5, 208, 226);
+}
+
+.g{
+   margin: auto; 
+   width: 500px;
+   border: 1px solid rgb(0, 0, 0);
+   background-color: rgb(10, 184, 214); 
+}
+
+.sub{
+   margin: auto; 
+   width: 1005px;
+   border: 1px solid rgb(0, 0, 0);
+   background-color: rgb(4, 220, 220); 
+}
+
+.ms{
+   margin: auto; 
+   width: 1005px;
+   border: 1px solid rgb(0, 0, 0);
+   background-color: rgb(10, 224, 203); 
+   padding: 5%;
+}
+
+.send{
+    text-align: center;
+}
+
+.send2{
+
+    border-radius: 40px;
+    padding: 10px;
+    margin: 30px;
+    width: 300px;
+
+}
+
+footer {
+    background-color: #09e195; 
+    text-align: center; 
+    color: aliceblue;
+    padding: 10px;
+    }
+
+
+.pc{  
+    text-align: center;
+    padding-top: 40px;
+    text-transform: uppercase;
+}
+
+.lm{
+    text-align: center;
+}
